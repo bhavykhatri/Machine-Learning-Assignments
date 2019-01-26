@@ -1,0 +1,9 @@
+1. The following packages are needed:
+	numpy 
+	sys
+	matplotlib
+	os
+
+2. I am using jupyter notebook for all my code. You need to use the command 'jupyter notebook' from the terminal in order to open the jupyter notebook. After that change the path in np.load('_________') wherever the  facedata_py2_3.pkl files are stored. Please write down the full path name. 
+
+3. After that run the notebook. For sake of simplicity I am also including the pdf version of my notebooks.
